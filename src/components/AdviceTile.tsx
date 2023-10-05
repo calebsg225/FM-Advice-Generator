@@ -4,7 +4,7 @@ import buttonSvg from "../assets/icon-dice.svg";
 const AdviceTile = () => {
   const { adviceData, isLoading, fetchNewAdvice } = useAdvice();
   return (
-    <div className='advice-container'>
+    <section className='advice-container'>
       {isLoading
       ? 
       <h2>Loading...</h2>
@@ -18,7 +18,7 @@ const AdviceTile = () => {
         </button>
       </>
       }
-    </div>
+    </section>
   )
 }
 
