@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/FM-Advice-Generator/static/css/main.a00a6c68.css",
-    "main.js": "/github.io/FM-Advice-Generator/static/js/main.758a0fcd.js",
-    "index.html": "/github.io/FM-Advice-Generator/index.html",
-    "static/media/icon-dice.svg": "/github.io/FM-Advice-Generator/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-desktop.svg": "/github.io/FM-Advice-Generator/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
-    "static/media/pattern-divider-mobile.svg": "/github.io/FM-Advice-Generator/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
-    "main.a00a6c68.css.map": "/github.io/FM-Advice-Generator/static/css/main.a00a6c68.css.map",
-    "main.758a0fcd.js.map": "/github.io/FM-Advice-Generator/static/js/main.758a0fcd.js.map"
+    "main.css": "/FM-Advice-Generator/static/css/main.d820ad75.css",
+    "main.js": "/FM-Advice-Generator/static/js/main.8fb2bb76.js",
+    "index.html": "/FM-Advice-Generator/index.html",
+    "static/media/icon-dice.svg": "/FM-Advice-Generator/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-desktop.svg": "/FM-Advice-Generator/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
+    "static/media/pattern-divider-mobile.svg": "/FM-Advice-Generator/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
+    "main.d820ad75.css.map": "/FM-Advice-Generator/static/css/main.d820ad75.css.map",
+    "main.8fb2bb76.js.map": "/FM-Advice-Generator/static/js/main.8fb2bb76.js.map"
   },
   "entrypoints": [
-    "static/css/main.a00a6c68.css",
-    "static/js/main.758a0fcd.js"
+    "static/css/main.d820ad75.css",
+    "static/js/main.8fb2bb76.js"
   ]
 }
