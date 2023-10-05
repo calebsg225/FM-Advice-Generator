@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/github.io/FM-Advice-Generator/static/css/main.31d6cfe0.css",
+    "main.js": "/github.io/FM-Advice-Generator/static/js/main.54277093.js",
+    "index.html": "/github.io/FM-Advice-Generator/index.html",
+    "main.54277093.js.map": "/github.io/FM-Advice-Generator/static/js/main.54277093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.54277093.js"
+  ]
+}
